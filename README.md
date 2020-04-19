@@ -10,9 +10,6 @@ outside your source code and you can change them anytime.
 
 Configuration Reader 
 
-	Create a java class named ReadPropertyFile.java inside the same project where config.properties file is created → include 
-  “public static main” method and Finish.
-
 Attention : 
 System.out.println(conFig.getProperties(“name”));
 - Make sure you use the same key as mentioned in properties file. This is case sensitive.
